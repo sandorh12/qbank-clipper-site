@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <meta name="robots" content="noindex, nofollow">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; connect-src 'none'; form-action 'none'; base-uri 'none'">
+  <title>QBANK Clipper: finish connecting Instagram</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, sans-serif; max-width: 40rem; margin: 3rem auto; padding: 0 1.25rem; line-height: 1.6; color: #111; }
+    h1 { font-size: 1.5rem; font-weight: 650; }
+    a { color: #0b57d0; }
+    textarea { width: 100%; box-sizing: border-box; min-height: 7rem; font: 0.9rem ui-monospace, SFMono-Regular, Menlo, monospace; padding: 0.6rem; border: 1px solid #bbb; border-radius: 6px; background: #f6f6f6; word-break: break-all; }
+    button { font: inherit; font-weight: 600; padding: 0.5rem 1.2rem; margin-top: 0.6rem; border: 0; border-radius: 6px; background: #111; color: #fff; cursor: pointer; }
+    .err { border: 1px solid #d93025; background: #fdecea; color: #a50e0e; border-radius: 6px; padding: 0.75rem 1rem; }
+    .ok { color: #137333; font-weight: 600; margin-left: 0.6rem; }
+    .fine { color: #555; font-size: 0.9rem; }
+  </style>
+</head>
+<body>
+  <h1>QBANK Clipper</h1>
+  <div id="error" class="err" hidden>
+    <b>Meta did not connect the account.</b>
+    <div>Error: <span id="e-error"></span></div>
+    <div id="e-reason-row" hidden>Reason: <span id="e-reason"></span></div>
+    <div id="e-desc-row" hidden>Details: <span id="e-desc"></span></div>
+    <p>Go back to QBANK Clipper and press <b>Connect</b> again.</p>
+  </div>
+  <p><b>Copy this whole address and paste it into QBANK Clipper &gt; Uploads &gt; Instagram &gt; Finish connecting.</b></p>
+  <textarea id="addr" readonly aria-label="Address to paste into QBANK Clipper"></textarea>
+  <div><button id="copy" type="button">Copy</button><span id="copied" class="ok" hidden>Copied</span></div>
+  <p class="fine">This page only shows the address. It does not send it anywhere and has no tracking. The code in it works once and expires within an hour.</p>
+  <p class="fine"><a href="index.html">QBANK Clipper</a> · <a href="privacy.html">Privacy policy</a></p>
+  <script>
+    (function () {
+      var addr = document.getElementById('addr');
+      addr.value = window.location.href;
+      var q = new URLSearchParams(window.location.search);
+      function plain(s) { return String(s || '').replace(/\+/g, ' '); }
+      if (q.get('error') || q.get('error_description')) {
+        document.getElementById('error').hidden = false;
+        document.getElementById('e-error').textContent = plain(q.get('error') || 'unknown');
+        if (q.get('error_reason')) { document.getElementById('e-reason-row').hidden = false; document.getElementById('e-reason').textContent = plain(q.get('error_reason')); }
+        if (q.get('error_description')) { document.getElementById('e-desc-row').hidden = false; document.getElementById('e-desc').textContent = plain(q.get('error_description')); }
+      }
+      function done() { document.getElementById('copied').hidden = false; }
+      document.getElementById('copy').addEventListener('click', function () {
+        addr.focus(); addr.select();
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(addr.value).then(done, function () { try { document.execCommand('copy'); done(); } catch (e) {} });
+        } else { try { document.execCommand('copy'); done(); } catch (e) {} }
+      });
+    })();
+  </script>
+</body>
+</html>
