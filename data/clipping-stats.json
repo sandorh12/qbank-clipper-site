@@ -1,0 +1,60 @@
+{
+  "updated_at": "2026-11-19T17:01:14-05:00",
+  "totals": {
+    "views": 641,
+    "watch_time_hours": 1.47,
+    "clips": 28
+  },
+  "platforms": {
+    "youtube_shorts": {
+      "views": 641,
+      "clips": 17,
+      "url": "https://www.youtube.com/@qbankclipz"
+    },
+    "instagram_reels": {
+      "views": null,
+      "clips": 11,
+      "url": "https://www.instagram.com/qbankclipz/",
+      "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
+    }
+  },
+  "top_clips": [
+    {
+      "title": "RON has been getting treated GOOD",
+      "platform": "YouTube Shorts",
+      "views": 609,
+      "url": "https://www.youtube.com/shorts/I5fy2yQzFjM"
+    },
+    {
+      "title": "WHY BANNANAS THO??",
+      "platform": "YouTube Shorts",
+      "views": 6,
+      "url": "https://www.youtube.com/shorts/hHMhYhDvALQ"
+    },
+    {
+      "title": "#CORE group takes on JAPAN!",
+      "platform": "YouTube Shorts",
+      "views": 4,
+      "url": "https://www.youtube.com/shorts/vDgKGb1eQbM"
+    },
+    {
+      "title": "Wait for Kai Cenat's reaction in GTA 6 😭",
+      "platform": "YouTube Shorts",
+      "views": 3,
+      "url": "https://www.youtube.com/shorts/YIXZ1DAQ-zE"
+    },
+    {
+      "title": "Marlon feels like a BAH BIH",
+      "platform": "YouTube Shorts",
+      "views": 3,
+      "url": "https://www.youtube.com/shorts/SAiGNdKcDC8"
+    }
+  ],
+  "campaigns": [
+    {
+      "name": "Clix GTA VI Marathon",
+      "views": 2,
+      "clips": 2
+    }
+  ]
+}
