@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-19T17:01:14-05:00",
+  "updated_at": "2026-11-19T18:03:43-05:00",
   "totals": {
     "views": 641,
     "watch_time_hours": 1.47,
-    "clips": 28
+    "clips": 29
   },
   "platforms": {
     "youtube_shorts": {
       "views": 641,
-      "clips": 17,
+      "clips": 18,
       "url": "https://www.youtube.com/@qbankclipz"
     },
     "instagram_reels": {
@@ -55,6 +55,11 @@
       "name": "Clix GTA VI Marathon",
       "views": 2,
       "clips": 2
+    },
+    {
+      "name": "LACY GTA VI Marathon Pool",
+      "views": 0,
+      "clips": 1
     }
   ]
 }
