@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-19T23:01:43-05:00",
+  "updated_at": "2026-11-20T07:03:07-05:00",
   "totals": {
-    "views": 642,
+    "views": 643,
     "watch_time_hours": 1.47,
-    "clips": 30
+    "clips": 29
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 642,
-      "clips": 19,
+      "views": 643,
+      "clips": 18,
       "url": "https://www.youtube.com/@qbankclipz"
     },
     "instagram_reels": {
@@ -58,7 +58,7 @@
     },
     {
       "name": "LACY GTA VI Marathon Pool",
-      "views": 0,
+      "views": 1,
       "clips": 1
     }
   ]
