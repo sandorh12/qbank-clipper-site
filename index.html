@@ -7,13 +7,32 @@
   <style>
     body { font-family: system-ui, -apple-system, Segoe UI, sans-serif; max-width: 40rem; margin: 3rem auto; padding: 0 1.25rem; line-height: 1.6; color: #111; }
     h1 { font-size: 1.5rem; font-weight: 650; }
+    h2 { font-size: 1.1rem; font-weight: 650; margin-top: 1.6rem; }
     a { color: #0b57d0; }
+    nav { margin-bottom: 1.5rem; }
+    nav a { margin-right: 1rem; }
+    footer { margin-top: 2.5rem; border-top: 1px solid #ddd; padding-top: 1rem; font-size: 0.9rem; color: #555; }
   </style>
 </head>
 <body>
+  <nav><a href="index.html">Home</a><a href="privacy.html">Privacy Policy</a><a href="terms.html">Terms of Service</a></nav>
   <h1>QBANK Clipper</h1>
-  <p>QBANK Clipper — a personal tool used by QBANK Clipz to upload its own short videos to its own YouTube channel and Instagram account.</p>
+  <p>QBANK Clipper is the desktop tool that QBANK Clipz (run by Sandor Hernandez-Amador, QBANK Capital) uses to turn
+     moments from live game streams into short vertical videos and publish them to QBANK Clipz's own accounts.</p>
+  <h2>What it does</h2>
+  <ul>
+    <li>Finds highlight moments in a stream and cuts them into 9:16 clips (facecam above gameplay, captions, credit to the streamer).</li>
+    <li>Runs quality and safety checks on every clip before it can be published (1080p60, audio/video sync, slurs bleeped, positive or funny moments only).</li>
+    <li>Publishes finished clips through each platform's official API: YouTube Shorts (YouTube Data API), Instagram Reels
+        (Instagram Platform API) and TikTok (TikTok Content Posting API, once approved).</li>
+    <li>Shows upload history and post analytics for those accounts.</li>
+  </ul>
+  <h2>How it works with TikTok</h2>
+  <p>The account owner signs in with TikTok (Login Kit) and authorizes QBANK Clipper. QBANK Clipper then either sends a
+     finished clip to the owner's TikTok inbox as a draft, which the owner edits and posts inside the TikTok app, or, on
+     the "Post to TikTok" screen, posts it with the title, privacy, interaction and disclosure settings the owner picks
+     there. QBANK Clipper does not read TikTok videos, comments, followers or messages.</p>
   <p>Contact: <a href="mailto:qbankcapital@gmail.com">qbankcapital@gmail.com</a></p>
-  <p><a href="privacy.html">Privacy policy</a></p>
+  <footer><a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms of Service</a> · © 2026 QBANK Capital</footer>
 </body>
 </html>
