@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-21T10:59:27-05:00",
+  "updated_at": "2026-11-21T17:02:28-05:00",
   "totals": {
-    "views": 642,
+    "views": 646,
     "watch_time_hours": 1.48,
     "clips": 46
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 642,
+      "views": 646,
       "clips": 35,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -32,6 +32,12 @@
       "url": "https://www.youtube.com/shorts/hHMhYhDvALQ"
     },
     {
+      "title": "\"I JUST WANTED TO GET LAID\" - Lacy 🎮",
+      "platform": "YouTube Shorts",
+      "views": 4,
+      "url": "https://www.youtube.com/shorts/Cp-K8GpGwMA"
+    },
+    {
       "title": "#CORE group takes on JAPAN!",
       "platform": "YouTube Shorts",
       "views": 4,
@@ -42,12 +48,6 @@
       "platform": "YouTube Shorts",
       "views": 3,
       "url": "https://www.youtube.com/shorts/YIXZ1DAQ-zE"
-    },
-    {
-      "title": "Marlon feels like a BAH BIH",
-      "platform": "YouTube Shorts",
-      "views": 3,
-      "url": "https://www.youtube.com/shorts/SAiGNdKcDC8"
     }
   ],
   "campaigns": [
