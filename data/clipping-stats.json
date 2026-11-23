@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-23T15:04:43-05:00",
+  "updated_at": "2026-11-23T16:04:35-05:00",
   "totals": {
-    "views": 725,
+    "views": 1155,
     "watch_time_hours": 1.48,
-    "clips": 57
+    "clips": 58
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 725,
-      "clips": 46,
+      "views": 1155,
+      "clips": 47,
       "url": "https://www.youtube.com/@qbankclipz"
     },
     "instagram_reels": {
@@ -28,26 +28,26 @@
     {
       "title": "\"I'LL SEE YOU LATER, DANELLA\" - Lacy 😳",
       "platform": "YouTube Shorts",
-      "views": 36,
+      "views": 189,
       "url": "https://www.youtube.com/shorts/J_VTrXx6kT4"
-    },
-    {
-      "title": "\"HOW LONG THE TIMER SAYS?\" - Clix 🎮",
-      "platform": "YouTube Shorts",
-      "views": 12,
-      "url": "https://www.youtube.com/shorts/IVuzKJknw7w"
     },
     {
       "title": "Watch what Lacy does with the money in GTA 6 🎮",
       "platform": "YouTube Shorts",
-      "views": 10,
+      "views": 108,
       "url": "https://www.youtube.com/shorts/oKRrygN68F8"
     },
     {
-      "title": "Watch what Lacy does with the car in GTA 6 🎮",
+      "title": "\"HOW LONG THE TIMER SAYS?\" - Clix 🎮",
       "platform": "YouTube Shorts",
-      "views": 8,
-      "url": "https://www.youtube.com/shorts/Xdy4R4Z9WIU"
+      "views": 107,
+      "url": "https://www.youtube.com/shorts/IVuzKJknw7w"
+    },
+    {
+      "title": "\"IS THAT A CINNAMON ROLL OR A CINNAMON MUFFIN?\" - Lacy 🎮",
+      "platform": "YouTube Shorts",
+      "views": 68,
+      "url": "https://www.youtube.com/shorts/ElaMBDJwwjc"
     }
   ],
   "campaigns": [
