@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-24T13:31:28-05:00",
+  "updated_at": "2026-11-24T14:04:05-05:00",
   "totals": {
-    "views": 2259,
+    "views": 2287,
     "watch_time_hours": 1.48,
     "clips": 62
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 2257,
+      "views": 2284,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,14 +18,14 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 2,
+      "views": 3,
       "clips": 1,
       "url": "https://x.com/SandorH0",
       "top_clips": [
         {
-          "title": "Chamath Palihapitiya: AI will produce 9-10 megacorps that each go \"from the application layer all the way down to the dirt.\"",
-          "url": "https://x.com/SandorH0/status/2125294750731247859",
-          "views": 2
+          "title": "Chamath Palihapitiya: AI will produce 9-10 megacorps that each go \"from the application layer all the way down to the dirt.\" His example: Palo Alto Networks...",
+          "url": "https://x.com/i/status/2125294750731247859",
+          "views": 3
         }
       ]
     }
@@ -34,7 +34,7 @@
     {
       "title": "\"IS THAT A CINNAMON ROLL OR A CINNAMON MUFFIN?\" - Lacy 🎮",
       "platform": "YouTube Shorts",
-      "views": 487,
+      "views": 488,
       "url": "https://www.youtube.com/shorts/ElaMBDJwwjc"
     },
     {
@@ -58,7 +58,7 @@
     {
       "title": "Lacy on the highway 🎮",
       "platform": "YouTube Shorts",
-      "views": 189,
+      "views": 191,
       "url": "https://www.youtube.com/shorts/b3t2J00NtUw"
     }
   ],
