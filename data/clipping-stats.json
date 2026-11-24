@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-24T14:05:36-05:00",
+  "updated_at": "2026-11-24T15:07:42-05:00",
   "totals": {
-    "views": 2289,
-    "watch_time_hours": 1.48,
+    "views": 2425,
+    "watch_time_hours": 1.5,
     "clips": 62
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 2286,
+      "views": 2416,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,14 +18,14 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 3,
+      "views": 9,
       "clips": 1,
       "url": "https://x.com/SandorH0",
       "top_clips": [
         {
           "title": "Chamath Palihapitiya: AI will produce 9-10 megacorps that each go \"from the application layer all the way down to the dirt.\" His example: Palo Alto Networks...",
           "url": "https://x.com/i/status/2125294750731247859",
-          "views": 3
+          "views": 9
         }
       ]
     }
@@ -50,16 +50,16 @@
       "url": "https://www.youtube.com/shorts/52VfKazCuKI"
     },
     {
+      "title": "CohhCarnage at the gym 🎮",
+      "platform": "YouTube Shorts",
+      "views": 253,
+      "url": "https://www.youtube.com/shorts/uAc9PbC8i_M"
+    },
+    {
       "title": "\"I'LL SEE YOU LATER, DANELLA\" - Lacy 😳",
       "platform": "YouTube Shorts",
       "views": 239,
       "url": "https://www.youtube.com/shorts/J_VTrXx6kT4"
-    },
-    {
-      "title": "Lacy on the highway 🎮",
-      "platform": "YouTube Shorts",
-      "views": 191,
-      "url": "https://www.youtube.com/shorts/b3t2J00NtUw"
     }
   ],
   "campaigns": [
