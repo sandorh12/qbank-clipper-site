@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-24T15:07:42-05:00",
+  "updated_at": "2026-11-24T15:59:20-05:00",
   "totals": {
-    "views": 2425,
+    "views": 2608,
     "watch_time_hours": 1.5,
-    "clips": 62
+    "clips": 63
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 2416,
+      "views": 2588,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,14 +18,19 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 9,
-      "clips": 1,
+      "views": 20,
+      "clips": 2,
       "url": "https://x.com/SandorH0",
       "top_clips": [
         {
           "title": "Chamath Palihapitiya: AI will produce 9-10 megacorps that each go \"from the application layer all the way down to the dirt.\" His example: Palo Alto Networks...",
           "url": "https://x.com/i/status/2125294750731247859",
-          "views": 9
+          "views": 12
+        },
+        {
+          "title": "CrowdStrike CEO George Kurtz: AI agents collapsed the cyber \"pyramid of pain.\" Now \"anyone can look like a nation state.\" My take: this is the strongest bull...",
+          "url": "https://x.com/i/status/2125324827871633479",
+          "views": 8
         }
       ]
     }
@@ -38,6 +43,12 @@
       "url": "https://www.youtube.com/shorts/ElaMBDJwwjc"
     },
     {
+      "title": "CohhCarnage at the gym 🎮",
+      "platform": "YouTube Shorts",
+      "views": 389,
+      "url": "https://www.youtube.com/shorts/uAc9PbC8i_M"
+    },
+    {
       "title": "\"HOW LONG THE TIMER SAYS?\" - Clix 🎮",
       "platform": "YouTube Shorts",
       "views": 389,
@@ -46,14 +57,8 @@
     {
       "title": "Chat is in shambles over Lacy 🎮",
       "platform": "YouTube Shorts",
-      "views": 287,
+      "views": 312,
       "url": "https://www.youtube.com/shorts/52VfKazCuKI"
-    },
-    {
-      "title": "CohhCarnage at the gym 🎮",
-      "platform": "YouTube Shorts",
-      "views": 253,
-      "url": "https://www.youtube.com/shorts/uAc9PbC8i_M"
     },
     {
       "title": "\"I'LL SEE YOU LATER, DANELLA\" - Lacy 😳",
