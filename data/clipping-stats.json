@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-24T10:59:24-05:00",
+  "updated_at": "2026-11-24T12:04:33-05:00",
   "totals": {
-    "views": 2785,
+    "views": 2177,
     "watch_time_hours": 1.48,
     "clips": 61
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 2785,
+      "views": 2177,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -20,27 +20,21 @@
   },
   "top_clips": [
     {
-      "title": "RON has been getting treated GOOD",
-      "platform": "YouTube Shorts",
-      "views": 609,
-      "url": "https://www.youtube.com/shorts/I5fy2yQzFjM"
-    },
-    {
       "title": "\"IS THAT A CINNAMON ROLL OR A CINNAMON MUFFIN?\" - Lacy 🎮",
       "platform": "YouTube Shorts",
-      "views": 487,
+      "views": 488,
       "url": "https://www.youtube.com/shorts/ElaMBDJwwjc"
     },
     {
       "title": "\"HOW LONG THE TIMER SAYS?\" - Clix 🎮",
       "platform": "YouTube Shorts",
-      "views": 387,
+      "views": 389,
       "url": "https://www.youtube.com/shorts/IVuzKJknw7w"
     },
     {
       "title": "Chat is in shambles over Lacy 🎮",
       "platform": "YouTube Shorts",
-      "views": 294,
+      "views": 287,
       "url": "https://www.youtube.com/shorts/52VfKazCuKI"
     },
     {
@@ -48,6 +42,12 @@
       "platform": "YouTube Shorts",
       "views": 239,
       "url": "https://www.youtube.com/shorts/J_VTrXx6kT4"
+    },
+    {
+      "title": "Lacy on the highway 🎮",
+      "platform": "YouTube Shorts",
+      "views": 191,
+      "url": "https://www.youtube.com/shorts/b3t2J00NtUw"
     }
   ],
   "campaigns": [
