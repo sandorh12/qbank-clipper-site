@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-24T17:01:14-05:00",
+  "updated_at": "2026-11-24T18:58:39-05:00",
   "totals": {
-    "views": 2802,
+    "views": 3014,
     "watch_time_hours": 1.5,
-    "clips": 63
+    "clips": 64
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 2766,
+      "views": 2967,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,19 +18,24 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 36,
-      "clips": 2,
+      "views": 47,
+      "clips": 3,
       "url": "https://x.com/SandorH0",
       "top_clips": [
         {
-          "title": "Chamath Palihapitiya: AI will produce 9-10 megacorps that each go \"from the application layer all the way down to the dirt.\" His example: Palo Alto Networks...",
-          "url": "https://x.com/i/status/2125294750731247859",
-          "views": 18
-        },
-        {
           "title": "CrowdStrike CEO George Kurtz: AI agents collapsed the cyber \"pyramid of pain.\" Now \"anyone can look like a nation state.\" My take: this is the strongest bull...",
           "url": "https://x.com/i/status/2125324827871633479",
-          "views": 18
+          "views": 23
+        },
+        {
+          "title": "Chamath Palihapitiya: AI will produce 9-10 megacorps that each go \"from the application layer all the way down to the dirt.\" His example: Palo Alto Networks...",
+          "url": "https://x.com/i/status/2125294750731247859",
+          "views": 21
+        },
+        {
+          "title": "David Friedberg on AI job-loss fears: at every frontier moment, \"the new industries get created before the old ones are irrelevant.\" My take: the AI job pani...",
+          "url": "https://x.com/i/status/2125361821586727390",
+          "views": 3
         }
       ]
     }
@@ -39,7 +44,7 @@
     {
       "title": "CohhCarnage at the gym 🎮",
       "platform": "YouTube Shorts",
-      "views": 525,
+      "views": 702,
       "url": "https://www.youtube.com/shorts/uAc9PbC8i_M"
     },
     {
@@ -57,7 +62,7 @@
     {
       "title": "Chat is in shambles over Lacy 🎮",
       "platform": "YouTube Shorts",
-      "views": 317,
+      "views": 328,
       "url": "https://www.youtube.com/shorts/52VfKazCuKI"
     },
     {
