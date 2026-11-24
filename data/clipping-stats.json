@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-24T12:59:38-05:00",
+  "updated_at": "2026-11-24T13:31:28-05:00",
   "totals": {
-    "views": 2205,
+    "views": 2259,
     "watch_time_hours": 1.48,
-    "clips": 61
+    "clips": 62
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 2205,
+      "views": 2257,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -16,6 +16,18 @@
       "clips": 11,
       "url": "https://www.instagram.com/qbankclipz/",
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
+    },
+    "x": {
+      "views": 2,
+      "clips": 1,
+      "url": "https://x.com/SandorH0",
+      "top_clips": [
+        {
+          "title": "Chamath Palihapitiya: AI will produce 9-10 megacorps that each go \"from the application layer all the way down to the dirt.\"",
+          "url": "https://x.com/SandorH0/status/2125294750731247859",
+          "views": 2
+        }
+      ]
     }
   },
   "top_clips": [
@@ -28,7 +40,7 @@
     {
       "title": "\"HOW LONG THE TIMER SAYS?\" - Clix 🎮",
       "platform": "YouTube Shorts",
-      "views": 387,
+      "views": 389,
       "url": "https://www.youtube.com/shorts/IVuzKJknw7w"
     },
     {
@@ -44,10 +56,10 @@
       "url": "https://www.youtube.com/shorts/J_VTrXx6kT4"
     },
     {
-      "title": "Watch what Lacy does with the money in GTA 6 🎮",
+      "title": "Lacy on the highway 🎮",
       "platform": "YouTube Shorts",
-      "views": 190,
-      "url": "https://www.youtube.com/shorts/oKRrygN68F8"
+      "views": 189,
+      "url": "https://www.youtube.com/shorts/b3t2J00NtUw"
     }
   ],
   "campaigns": [
