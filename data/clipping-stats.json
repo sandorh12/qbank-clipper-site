@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-25T09:59:09-05:00",
+  "updated_at": "2026-11-25T12:00:46-05:00",
   "totals": {
-    "views": 3397,
+    "views": 3482,
     "watch_time_hours": 1.5,
-    "clips": 65
+    "clips": 66
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 3322,
+      "views": 3400,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,29 +18,34 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 75,
-      "clips": 4,
+      "views": 82,
+      "clips": 5,
       "url": "https://x.com/SandorH0",
       "top_clips": [
         {
           "title": "CrowdStrike CEO George Kurtz: AI agents collapsed the cyber \"pyramid of pain.\" Now \"anyone can look like a nation state.\" My take: this is the strongest bull...",
           "url": "https://x.com/i/status/2125324827871633479",
-          "views": 30
+          "views": 32
         },
         {
           "title": "Chamath Palihapitiya: AI will produce 9-10 megacorps that each go \"from the application layer all the way down to the dirt.\" His example: Palo Alto Networks...",
           "url": "https://x.com/i/status/2125294750731247859",
-          "views": 28
+          "views": 29
         },
         {
           "title": "David Friedberg on AI job-loss fears: at every frontier moment, \"the new industries get created before the old ones are irrelevant.\" My take: the AI job pani...",
           "url": "https://x.com/i/status/2125361821586727390",
-          "views": 12
+          "views": 14
         },
         {
           "title": "George Kurtz: just this year we found 25% of all CVEs ever cataloged, and the surge is \"literally doubling every month.\" My take: that's not a slow curve.",
           "url": "https://x.com/i/status/2125590344829935854",
-          "views": 5
+          "views": 7
+        },
+        {
+          "title": "Kurtz calls it \"break or breach.\" The 30-day patch window is gone.",
+          "url": "https://x.com/i/status/2125635625592164391",
+          "views": 0
         }
       ]
     }
@@ -49,7 +54,7 @@
     {
       "title": "CohhCarnage at the gym 🎮",
       "platform": "YouTube Shorts",
-      "views": 809,
+      "views": 824,
       "url": "https://www.youtube.com/shorts/uAc9PbC8i_M"
     },
     {
@@ -59,16 +64,16 @@
       "url": "https://www.youtube.com/shorts/ElaMBDJwwjc"
     },
     {
+      "title": "Chat is in shambles over Lacy 🎮",
+      "platform": "YouTube Shorts",
+      "views": 392,
+      "url": "https://www.youtube.com/shorts/52VfKazCuKI"
+    },
+    {
       "title": "\"HOW LONG THE TIMER SAYS?\" - Clix 🎮",
       "platform": "YouTube Shorts",
       "views": 389,
       "url": "https://www.youtube.com/shorts/IVuzKJknw7w"
-    },
-    {
-      "title": "Chat is in shambles over Lacy 🎮",
-      "platform": "YouTube Shorts",
-      "views": 373,
-      "url": "https://www.youtube.com/shorts/52VfKazCuKI"
     },
     {
       "title": "\"I'LL SEE YOU LATER, DANELLA\" - Lacy 😳",
