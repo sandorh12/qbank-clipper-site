@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-25T16:00:43-05:00",
+  "updated_at": "2026-11-25T17:07:08-05:00",
   "totals": {
-    "views": 3618,
+    "views": 3675,
     "watch_time_hours": 4.8,
     "clips": 67
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 3495,
+      "views": 3548,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,14 +18,14 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 123,
+      "views": 127,
       "clips": 6,
       "url": "https://x.com/SandorH0",
       "top_clips": [
         {
           "title": "CrowdStrike CEO George Kurtz: AI agents collapsed the cyber \"pyramid of pain.\" Now \"anyone can look like a nation state.\" My take: this is the strongest bull...",
           "url": "https://x.com/i/status/2125324827871633479",
-          "views": 35
+          "views": 36
         },
         {
           "title": "Chamath Palihapitiya: AI will produce 9-10 megacorps that each go \"from the application layer all the way down to the dirt.\" His example: Palo Alto Networks...",
@@ -40,12 +40,12 @@
         {
           "title": "Kurtz calls it \"break or breach.\" The 30-day patch window is gone.",
           "url": "https://x.com/i/status/2125635625592164391",
-          "views": 15
+          "views": 16
         },
         {
           "title": "CrowdStrike told a company their remote hire was North Korea.",
           "url": "https://x.com/i/status/2125680932896014516",
-          "views": 12
+          "views": 14
         }
       ]
     }
@@ -54,7 +54,7 @@
     {
       "title": "CohhCarnage at the gym 🎮",
       "platform": "YouTube Shorts",
-      "views": 841,
+      "views": 839,
       "url": "https://www.youtube.com/shorts/uAc9PbC8i_M"
     },
     {
