@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-25T14:02:38-05:00",
+  "updated_at": "2026-11-25T14:58:18-05:00",
   "totals": {
-    "views": 3563,
+    "views": 3611,
     "watch_time_hours": 1.5,
     "clips": 66
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 3461,
+      "views": 3505,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,7 +18,7 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 102,
+      "views": 106,
       "clips": 5,
       "url": "https://x.com/SandorH0",
       "top_clips": [
@@ -35,17 +35,17 @@
         {
           "title": "David Friedberg on AI job-loss fears: at every frontier moment, \"the new industries get created before the old ones are irrelevant.\" My take: the AI job pani...",
           "url": "https://x.com/i/status/2125361821586727390",
-          "views": 17
-        },
-        {
-          "title": "George Kurtz: just this year we found 25% of all CVEs ever cataloged, and the surge is \"literally doubling every month.\" My take: that's not a slow curve.",
-          "url": "https://x.com/i/status/2125590344829935854",
-          "views": 9
+          "views": 18
         },
         {
           "title": "Kurtz calls it \"break or breach.\" The 30-day patch window is gone.",
           "url": "https://x.com/i/status/2125635625592164391",
-          "views": 9
+          "views": 11
+        },
+        {
+          "title": "George Kurtz: just this year we found 25% of all CVEs ever cataloged, and the surge is \"literally doubling every month.\" My take: that's not a slow curve.",
+          "url": "https://x.com/i/status/2125590344829935854",
+          "views": 10
         }
       ]
     }
