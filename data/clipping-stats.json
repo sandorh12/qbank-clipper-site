@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-25T12:00:46-05:00",
+  "updated_at": "2026-11-25T13:00:54-05:00",
   "totals": {
-    "views": 3482,
+    "views": 3516,
     "watch_time_hours": 1.5,
     "clips": 66
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 3400,
+      "views": 3416,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,34 +18,34 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 82,
+      "views": 100,
       "clips": 5,
       "url": "https://x.com/SandorH0",
       "top_clips": [
         {
           "title": "CrowdStrike CEO George Kurtz: AI agents collapsed the cyber \"pyramid of pain.\" Now \"anyone can look like a nation state.\" My take: this is the strongest bull...",
           "url": "https://x.com/i/status/2125324827871633479",
-          "views": 32
+          "views": 35
         },
         {
           "title": "Chamath Palihapitiya: AI will produce 9-10 megacorps that each go \"from the application layer all the way down to the dirt.\" His example: Palo Alto Networks...",
           "url": "https://x.com/i/status/2125294750731247859",
-          "views": 29
+          "views": 32
         },
         {
           "title": "David Friedberg on AI job-loss fears: at every frontier moment, \"the new industries get created before the old ones are irrelevant.\" My take: the AI job pani...",
           "url": "https://x.com/i/status/2125361821586727390",
-          "views": 14
+          "views": 17
         },
         {
           "title": "George Kurtz: just this year we found 25% of all CVEs ever cataloged, and the surge is \"literally doubling every month.\" My take: that's not a slow curve.",
           "url": "https://x.com/i/status/2125590344829935854",
-          "views": 7
+          "views": 9
         },
         {
           "title": "Kurtz calls it \"break or breach.\" The 30-day patch window is gone.",
           "url": "https://x.com/i/status/2125635625592164391",
-          "views": 0
+          "views": 7
         }
       ]
     }
