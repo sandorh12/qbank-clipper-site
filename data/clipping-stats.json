@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-25T08:05:08-05:00",
+  "updated_at": "2026-11-25T09:04:01-05:00",
   "totals": {
-    "views": 3367,
+    "views": 3373,
     "watch_time_hours": 1.5,
-    "clips": 64
+    "clips": 65
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 3305,
+      "views": 3310,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,8 +18,8 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 62,
-      "clips": 3,
+      "views": 63,
+      "clips": 4,
       "url": "https://x.com/SandorH0",
       "top_clips": [
         {
@@ -36,6 +36,11 @@
           "title": "David Friedberg on AI job-loss fears: at every frontier moment, \"the new industries get created before the old ones are irrelevant.\" My take: the AI job pani...",
           "url": "https://x.com/i/status/2125361821586727390",
           "views": 8
+        },
+        {
+          "title": "George Kurtz: just this year we found 25% of all CVEs ever cataloged, and the surge is \"literally doubling every month.\" My take: that's not a slow curve.",
+          "url": "https://x.com/i/status/2125590344829935854",
+          "views": 1
         }
       ]
     }
