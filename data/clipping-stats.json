@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-25T14:58:18-05:00",
+  "updated_at": "2026-11-25T16:00:43-05:00",
   "totals": {
-    "views": 3611,
-    "watch_time_hours": 1.5,
-    "clips": 66
+    "views": 3618,
+    "watch_time_hours": 4.8,
+    "clips": 67
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 3505,
+      "views": 3495,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,8 +18,8 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 106,
-      "clips": 5,
+      "views": 123,
+      "clips": 6,
       "url": "https://x.com/SandorH0",
       "top_clips": [
         {
@@ -30,7 +30,7 @@
         {
           "title": "Chamath Palihapitiya: AI will produce 9-10 megacorps that each go \"from the application layer all the way down to the dirt.\" His example: Palo Alto Networks...",
           "url": "https://x.com/i/status/2125294750731247859",
-          "views": 32
+          "views": 33
         },
         {
           "title": "David Friedberg on AI job-loss fears: at every frontier moment, \"the new industries get created before the old ones are irrelevant.\" My take: the AI job pani...",
@@ -40,12 +40,12 @@
         {
           "title": "Kurtz calls it \"break or breach.\" The 30-day patch window is gone.",
           "url": "https://x.com/i/status/2125635625592164391",
-          "views": 11
+          "views": 15
         },
         {
-          "title": "George Kurtz: just this year we found 25% of all CVEs ever cataloged, and the surge is \"literally doubling every month.\" My take: that's not a slow curve.",
-          "url": "https://x.com/i/status/2125590344829935854",
-          "views": 10
+          "title": "CrowdStrike told a company their remote hire was North Korea.",
+          "url": "https://x.com/i/status/2125680932896014516",
+          "views": 12
         }
       ]
     }
@@ -54,7 +54,7 @@
     {
       "title": "CohhCarnage at the gym 🎮",
       "platform": "YouTube Shorts",
-      "views": 839,
+      "views": 841,
       "url": "https://www.youtube.com/shorts/uAc9PbC8i_M"
     },
     {
@@ -66,7 +66,7 @@
     {
       "title": "Chat is in shambles over Lacy 🎮",
       "platform": "YouTube Shorts",
-      "views": 411,
+      "views": 422,
       "url": "https://www.youtube.com/shorts/52VfKazCuKI"
     },
     {
