@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-24T22:00:52-05:00",
+  "updated_at": "2026-11-24T23:03:09-05:00",
   "totals": {
-    "views": 3123,
+    "views": 3149,
     "watch_time_hours": 1.5,
     "clips": 64
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 3068,
+      "views": 3093,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,14 +18,14 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 55,
+      "views": 56,
       "clips": 3,
       "url": "https://x.com/SandorH0",
       "top_clips": [
         {
           "title": "CrowdStrike CEO George Kurtz: AI agents collapsed the cyber \"pyramid of pain.\" Now \"anyone can look like a nation state.\" My take: this is the strongest bull...",
           "url": "https://x.com/i/status/2125324827871633479",
-          "views": 25
+          "views": 26
         },
         {
           "title": "Chamath Palihapitiya: AI will produce 9-10 megacorps that each go \"from the application layer all the way down to the dirt.\" His example: Palo Alto Networks...",
@@ -44,7 +44,7 @@
     {
       "title": "CohhCarnage at the gym 🎮",
       "platform": "YouTube Shorts",
-      "views": 755,
+      "views": 777,
       "url": "https://www.youtube.com/shorts/uAc9PbC8i_M"
     },
     {
