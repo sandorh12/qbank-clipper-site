@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-26T12:06:33-05:00",
+  "updated_at": "2026-11-26T12:57:33-05:00",
   "totals": {
-    "views": 5094,
+    "views": 5105,
     "watch_time_hours": 4.8,
     "clips": 71
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 4867,
+      "views": 4873,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,7 +18,7 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 227,
+      "views": 232,
       "clips": 10,
       "url": "https://x.com/SandorH0",
       "top_clips": [
@@ -35,7 +35,7 @@
         {
           "title": "Kurtz: attackers steal your session token — the \"trust this computer\" pass — and they're in your inbox for 30 days.",
           "url": "https://x.com/i/status/2125726225893314592",
-          "views": 34
+          "views": 35
         },
         {
           "title": "Chamath Palihapitiya: AI will produce 9-10 megacorps that each go \"from the application layer all the way down to the dirt.\" His example: Palo Alto Networks...",
@@ -54,13 +54,13 @@
     {
       "title": "CohhCarnage at the gym 🎮",
       "platform": "YouTube Shorts",
-      "views": 865,
+      "views": 867,
       "url": "https://www.youtube.com/shorts/uAc9PbC8i_M"
     },
     {
       "title": "Chat is in shambles over YourRAGE 🎮",
       "platform": "YouTube Shorts",
-      "views": 648,
+      "views": 654,
       "url": "https://www.youtube.com/shorts/i-GPLFgvybA"
     },
     {
