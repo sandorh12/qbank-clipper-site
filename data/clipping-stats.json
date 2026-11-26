@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-26T07:02:57-05:00",
+  "updated_at": "2026-11-26T08:03:30-05:00",
   "totals": {
-    "views": 4275,
+    "views": 4863,
     "watch_time_hours": 4.8,
     "clips": 69
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 4073,
+      "views": 4656,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,18 +18,18 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 202,
+      "views": 207,
       "clips": 8,
       "url": "https://x.com/SandorH0",
       "top_clips": [
         {
-          "title": "CrowdStrike CEO George Kurtz: AI agents collapsed the cyber \"pyramid of pain.\" Now \"anyone can look like a nation state.\" My take: this is the strongest bull...",
-          "url": "https://x.com/i/status/2125324827871633479",
-          "views": 37
-        },
-        {
           "title": "Kurtz calls it \"break or breach.\" The 30-day patch window is gone.",
           "url": "https://x.com/i/status/2125635625592164391",
+          "views": 39
+        },
+        {
+          "title": "CrowdStrike CEO George Kurtz: AI agents collapsed the cyber \"pyramid of pain.\" Now \"anyone can look like a nation state.\" My take: this is the strongest bull...",
+          "url": "https://x.com/i/status/2125324827871633479",
           "views": 37
         },
         {
@@ -40,12 +40,12 @@
         {
           "title": "Kurtz: attackers steal your session token — the \"trust this computer\" pass — and they're in your inbox for 30 days.",
           "url": "https://x.com/i/status/2125726225893314592",
-          "views": 26
+          "views": 27
         },
         {
-          "title": "CrowdStrike told a company their remote hire was North Korea.",
-          "url": "https://x.com/i/status/2125680932896014516",
-          "views": 20
+          "title": "Kurtz: OpenAI \"took the airbags off the agents.\" Defenders didn't have frontier models, so they used Chinese models to see what happened.",
+          "url": "https://x.com/i/status/2125771527203266793",
+          "views": 21
         }
       ]
     }
@@ -56,6 +56,12 @@
       "platform": "YouTube Shorts",
       "views": 865,
       "url": "https://www.youtube.com/shorts/uAc9PbC8i_M"
+    },
+    {
+      "title": "Chat is in shambles over YourRAGE 🎮",
+      "platform": "YouTube Shorts",
+      "views": 531,
+      "url": "https://www.youtube.com/shorts/i-GPLFgvybA"
     },
     {
       "title": "\"IS THAT A CINNAMON ROLL OR A CINNAMON MUFFIN?\" - Lacy 🎮",
@@ -74,22 +80,16 @@
       "platform": "YouTube Shorts",
       "views": 389,
       "url": "https://www.youtube.com/shorts/IVuzKJknw7w"
-    },
-    {
-      "title": "Chat spams W for supertf 🎮",
-      "platform": "YouTube Shorts",
-      "views": 316,
-      "url": "https://www.youtube.com/shorts/g0f6_7-uaEE"
     }
   ],
   "campaigns": [
     {
-      "name": "Clix GTA VI Marathon",
-      "views": 3,
-      "clips": 2
+      "name": "LACY GTA VI Marathon Pool",
+      "views": 1,
+      "clips": 1
     },
     {
-      "name": "LACY GTA VI Marathon Pool",
+      "name": "Clix GTA VI Marathon",
       "views": 1,
       "clips": 1
     }
