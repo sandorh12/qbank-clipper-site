@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-26T08:59:02-05:00",
+  "updated_at": "2026-11-26T10:01:10-05:00",
   "totals": {
-    "views": 4877,
+    "views": 4884,
     "watch_time_hours": 4.8,
-    "clips": 69
+    "clips": 70
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 4668,
+      "views": 4672,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,8 +18,8 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 209,
-      "clips": 8,
+      "views": 212,
+      "clips": 9,
       "url": "https://x.com/SandorH0",
       "top_clips": [
         {
@@ -40,12 +40,12 @@
         {
           "title": "Kurtz: attackers steal your session token — the \"trust this computer\" pass — and they're in your inbox for 30 days.",
           "url": "https://x.com/i/status/2125726225893314592",
-          "views": 28
+          "views": 30
         },
         {
           "title": "Kurtz: OpenAI \"took the airbags off the agents.\" Defenders didn't have frontier models, so they used Chinese models to see what happened.",
           "url": "https://x.com/i/status/2125771527203266793",
-          "views": 21
+          "views": 22
         }
       ]
     }
@@ -60,7 +60,7 @@
     {
       "title": "Chat is in shambles over YourRAGE 🎮",
       "platform": "YouTube Shorts",
-      "views": 541,
+      "views": 545,
       "url": "https://www.youtube.com/shorts/i-GPLFgvybA"
     },
     {
