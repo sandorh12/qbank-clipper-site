@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-26T11:06:45-05:00",
+  "updated_at": "2026-11-26T12:06:33-05:00",
   "totals": {
-    "views": 4968,
+    "views": 5094,
     "watch_time_hours": 4.8,
-    "clips": 70
+    "clips": 71
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 4749,
+      "views": 4867,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,14 +18,14 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 219,
-      "clips": 9,
+      "views": 227,
+      "clips": 10,
       "url": "https://x.com/SandorH0",
       "top_clips": [
         {
           "title": "Kurtz calls it \"break or breach.\" The 30-day patch window is gone.",
           "url": "https://x.com/i/status/2125635625592164391",
-          "views": 42
+          "views": 45
         },
         {
           "title": "CrowdStrike CEO George Kurtz: AI agents collapsed the cyber \"pyramid of pain.\" Now \"anyone can look like a nation state.\" My take: this is the strongest bull...",
@@ -33,19 +33,19 @@
           "views": 37
         },
         {
+          "title": "Kurtz: attackers steal your session token — the \"trust this computer\" pass — and they're in your inbox for 30 days.",
+          "url": "https://x.com/i/status/2125726225893314592",
+          "views": 34
+        },
+        {
           "title": "Chamath Palihapitiya: AI will produce 9-10 megacorps that each go \"from the application layer all the way down to the dirt.\" His example: Palo Alto Networks...",
           "url": "https://x.com/i/status/2125294750731247859",
           "views": 33
         },
         {
-          "title": "Kurtz: attackers steal your session token — the \"trust this computer\" pass — and they're in your inbox for 30 days.",
-          "url": "https://x.com/i/status/2125726225893314592",
-          "views": 32
-        },
-        {
           "title": "Kurtz: OpenAI \"took the airbags off the agents.\" Defenders didn't have frontier models, so they used Chinese models to see what happened.",
           "url": "https://x.com/i/status/2125771527203266793",
-          "views": 23
+          "views": 26
         }
       ]
     }
@@ -60,7 +60,7 @@
     {
       "title": "Chat is in shambles over YourRAGE 🎮",
       "platform": "YouTube Shorts",
-      "views": 624,
+      "views": 648,
       "url": "https://www.youtube.com/shorts/i-GPLFgvybA"
     },
     {
@@ -70,16 +70,16 @@
       "url": "https://www.youtube.com/shorts/ElaMBDJwwjc"
     },
     {
-      "title": "Chat is in shambles over Lacy 🎮",
+      "title": "Chat spams W for supertf 🎮",
       "platform": "YouTube Shorts",
-      "views": 448,
-      "url": "https://www.youtube.com/shorts/52VfKazCuKI"
+      "views": 463,
+      "url": "https://www.youtube.com/shorts/g0f6_7-uaEE"
     },
     {
-      "title": "\"HOW LONG THE TIMER SAYS?\" - Clix 🎮",
+      "title": "Chat is in shambles over Lacy 🎮",
       "platform": "YouTube Shorts",
-      "views": 389,
-      "url": "https://www.youtube.com/shorts/IVuzKJknw7w"
+      "views": 449,
+      "url": "https://www.youtube.com/shorts/52VfKazCuKI"
     }
   ],
   "campaigns": [
