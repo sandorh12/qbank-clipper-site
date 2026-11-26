@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-26T14:57:40-05:00",
+  "updated_at": "2026-11-26T16:04:44-05:00",
   "totals": {
-    "views": 5122,
-    "watch_time_hours": 4.8,
-    "clips": 71
+    "views": 5131,
+    "watch_time_hours": 6.92,
+    "clips": 72
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 4882,
+      "views": 4883,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,8 +18,8 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 240,
-      "clips": 10,
+      "views": 248,
+      "clips": 11,
       "url": "https://x.com/SandorH0",
       "top_clips": [
         {
@@ -28,13 +28,13 @@
           "views": 46
         },
         {
-          "title": "CrowdStrike CEO George Kurtz: AI agents collapsed the cyber \"pyramid of pain.\" Now \"anyone can look like a nation state.\" My take: this is the strongest bull...",
-          "url": "https://x.com/i/status/2125324827871633479",
-          "views": 37
-        },
-        {
           "title": "Kurtz: attackers steal your session token — the \"trust this computer\" pass — and they're in your inbox for 30 days.",
           "url": "https://x.com/i/status/2125726225893314592",
+          "views": 38
+        },
+        {
+          "title": "CrowdStrike CEO George Kurtz: AI agents collapsed the cyber \"pyramid of pain.\" Now \"anyone can look like a nation state.\" My take: this is the strongest bull...",
+          "url": "https://x.com/i/status/2125324827871633479",
           "views": 37
         },
         {
@@ -60,7 +60,7 @@
     {
       "title": "Chat is in shambles over YourRAGE 🎮",
       "platform": "YouTube Shorts",
-      "views": 654,
+      "views": 655,
       "url": "https://www.youtube.com/shorts/i-GPLFgvybA"
     },
     {
@@ -78,7 +78,7 @@
     {
       "title": "Chat is in shambles over Lacy 🎮",
       "platform": "YouTube Shorts",
-      "views": 449,
+      "views": 448,
       "url": "https://www.youtube.com/shorts/52VfKazCuKI"
     }
   ],
