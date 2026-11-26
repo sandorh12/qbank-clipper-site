@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-26T10:01:10-05:00",
+  "updated_at": "2026-11-26T11:06:45-05:00",
   "totals": {
-    "views": 4884,
+    "views": 4968,
     "watch_time_hours": 4.8,
     "clips": 70
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 4672,
+      "views": 4749,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,14 +18,14 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 212,
+      "views": 219,
       "clips": 9,
       "url": "https://x.com/SandorH0",
       "top_clips": [
         {
           "title": "Kurtz calls it \"break or breach.\" The 30-day patch window is gone.",
           "url": "https://x.com/i/status/2125635625592164391",
-          "views": 40
+          "views": 42
         },
         {
           "title": "CrowdStrike CEO George Kurtz: AI agents collapsed the cyber \"pyramid of pain.\" Now \"anyone can look like a nation state.\" My take: this is the strongest bull...",
@@ -40,12 +40,12 @@
         {
           "title": "Kurtz: attackers steal your session token — the \"trust this computer\" pass — and they're in your inbox for 30 days.",
           "url": "https://x.com/i/status/2125726225893314592",
-          "views": 30
+          "views": 32
         },
         {
           "title": "Kurtz: OpenAI \"took the airbags off the agents.\" Defenders didn't have frontier models, so they used Chinese models to see what happened.",
           "url": "https://x.com/i/status/2125771527203266793",
-          "views": 22
+          "views": 23
         }
       ]
     }
@@ -60,7 +60,7 @@
     {
       "title": "Chat is in shambles over YourRAGE 🎮",
       "platform": "YouTube Shorts",
-      "views": 545,
+      "views": 624,
       "url": "https://www.youtube.com/shorts/i-GPLFgvybA"
     },
     {
