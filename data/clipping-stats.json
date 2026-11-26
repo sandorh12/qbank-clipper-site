@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-25T20:59:52-05:00",
+  "updated_at": "2026-11-25T22:00:43-05:00",
   "totals": {
-    "views": 3777,
+    "views": 3790,
     "watch_time_hours": 4.8,
-    "clips": 68
+    "clips": 69
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 3630,
+      "views": 3631,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,8 +18,8 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 147,
-      "clips": 7,
+      "views": 159,
+      "clips": 8,
       "url": "https://x.com/SandorH0",
       "top_clips": [
         {
@@ -35,7 +35,7 @@
         {
           "title": "Kurtz calls it \"break or breach.\" The 30-day patch window is gone.",
           "url": "https://x.com/i/status/2125635625592164391",
-          "views": 23
+          "views": 26
         },
         {
           "title": "David Friedberg on AI job-loss fears: at every frontier moment, \"the new industries get created before the old ones are irrelevant.\" My take: the AI job pani...",
