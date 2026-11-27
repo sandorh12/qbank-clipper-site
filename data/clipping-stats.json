@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-26T21:03:46-05:00",
+  "updated_at": "2026-11-26T21:59:48-05:00",
   "totals": {
-    "views": 5148,
+    "views": 5175,
     "watch_time_hours": 6.92,
     "clips": 74
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 4886,
+      "views": 4887,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,34 +18,34 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 262,
+      "views": 288,
       "clips": 13,
       "url": "https://x.com/SandorH0",
       "top_clips": [
         {
           "title": "Kurtz calls it \"break or breach.\" The 30-day patch window is gone.",
           "url": "https://x.com/i/status/2125635625592164391",
-          "views": 46
+          "views": 47
         },
         {
           "title": "Kurtz: attackers steal your session token — the \"trust this computer\" pass — and they're in your inbox for 30 days.",
           "url": "https://x.com/i/status/2125726225893314592",
-          "views": 39
+          "views": 41
         },
         {
           "title": "CrowdStrike CEO George Kurtz: AI agents collapsed the cyber \"pyramid of pain.\" Now \"anyone can look like a nation state.\" My take: this is the strongest bull...",
           "url": "https://x.com/i/status/2125324827871633479",
-          "views": 37
+          "views": 38
         },
         {
           "title": "Chamath Palihapitiya: AI will produce 9-10 megacorps that each go \"from the application layer all the way down to the dirt.\" His example: Palo Alto Networks...",
           "url": "https://x.com/i/status/2125294750731247859",
-          "views": 33
+          "views": 34
         },
         {
           "title": "Kurtz: OpenAI \"took the airbags off the agents.\" Defenders didn't have frontier models, so they used Chinese models to see what happened.",
           "url": "https://x.com/i/status/2125771527203266793",
-          "views": 29
+          "views": 31
         }
       ]
     }
