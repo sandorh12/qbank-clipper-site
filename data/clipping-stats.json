@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-27T11:01:44-05:00",
+  "updated_at": "2026-11-27T12:01:34-05:00",
   "totals": {
-    "views": 5235,
+    "views": 5245,
     "watch_time_hours": 6.92,
     "clips": 74
   },
@@ -18,7 +18,7 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 343,
+      "views": 353,
       "clips": 13,
       "url": "https://x.com/SandorH0",
       "top_clips": [
@@ -38,13 +38,13 @@
           "views": 38
         },
         {
-          "title": "Chamath Palihapitiya: AI will produce 9-10 megacorps that each go \"from the application layer all the way down to the dirt.\" His example: Palo Alto Networks...",
-          "url": "https://x.com/i/status/2125294750731247859",
-          "views": 34
-        },
-        {
           "title": "Kurtz: OpenAI \"took the airbags off the agents.\" Defenders didn't have frontier models, so they used Chinese models to see what happened.",
           "url": "https://x.com/i/status/2125771527203266793",
+          "views": 35
+        },
+        {
+          "title": "Chamath Palihapitiya: AI will produce 9-10 megacorps that each go \"from the application layer all the way down to the dirt.\" His example: Palo Alto Networks...",
+          "url": "https://x.com/i/status/2125294750731247859",
           "views": 34
         }
       ]
