@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-27T13:59:53-05:00",
+  "updated_at": "2026-11-27T15:05:09-05:00",
   "totals": {
-    "views": 5253,
-    "watch_time_hours": 6.9,
+    "views": 5252,
+    "watch_time_hours": 7.88,
     "clips": 74
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 4892,
+      "views": 4890,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,7 +18,7 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 361,
+      "views": 362,
       "clips": 13,
       "url": "https://x.com/SandorH0",
       "top_clips": [
@@ -38,13 +38,13 @@
           "views": 38
         },
         {
-          "title": "Chamath Palihapitiya: AI will produce 9-10 megacorps that each go \"from the application layer all the way down to the dirt.\" His example: Palo Alto Networks...",
-          "url": "https://x.com/i/status/2125294750731247859",
-          "views": 35
-        },
-        {
           "title": "Kurtz: OpenAI \"took the airbags off the agents.\" Defenders didn't have frontier models, so they used Chinese models to see what happened.",
           "url": "https://x.com/i/status/2125771527203266793",
+          "views": 36
+        },
+        {
+          "title": "Chamath Palihapitiya: AI will produce 9-10 megacorps that each go \"from the application layer all the way down to the dirt.\" His example: Palo Alto Networks...",
+          "url": "https://x.com/i/status/2125294750731247859",
           "views": 35
         }
       ]
@@ -60,7 +60,7 @@
     {
       "title": "Chat is in shambles over YourRAGE 🎮",
       "platform": "YouTube Shorts",
-      "views": 659,
+      "views": 657,
       "url": "https://www.youtube.com/shorts/i-GPLFgvybA"
     },
     {
@@ -72,7 +72,7 @@
     {
       "title": "Chat spams W for supertf 🎮",
       "platform": "YouTube Shorts",
-      "views": 473,
+      "views": 472,
       "url": "https://www.youtube.com/shorts/g0f6_7-uaEE"
     },
     {
