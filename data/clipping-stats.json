@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-26T20:00:11-05:00",
+  "updated_at": "2026-11-26T21:03:46-05:00",
   "totals": {
-    "views": 5143,
+    "views": 5148,
     "watch_time_hours": 6.92,
-    "clips": 73
+    "clips": 74
   },
   "platforms": {
     "youtube_shorts": {
@@ -18,8 +18,8 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 257,
-      "clips": 12,
+      "views": 262,
+      "clips": 13,
       "url": "https://x.com/SandorH0",
       "top_clips": [
         {
@@ -30,7 +30,7 @@
         {
           "title": "Kurtz: attackers steal your session token — the \"trust this computer\" pass — and they're in your inbox for 30 days.",
           "url": "https://x.com/i/status/2125726225893314592",
-          "views": 38
+          "views": 39
         },
         {
           "title": "CrowdStrike CEO George Kurtz: AI agents collapsed the cyber \"pyramid of pain.\" Now \"anyone can look like a nation state.\" My take: this is the strongest bull...",
@@ -45,7 +45,7 @@
         {
           "title": "Kurtz: OpenAI \"took the airbags off the agents.\" Defenders didn't have frontier models, so they used Chinese models to see what happened.",
           "url": "https://x.com/i/status/2125771527203266793",
-          "views": 28
+          "views": 29
         }
       ]
     }
@@ -72,7 +72,7 @@
     {
       "title": "Chat spams W for supertf 🎮",
       "platform": "YouTube Shorts",
-      "views": 470,
+      "views": 471,
       "url": "https://www.youtube.com/shorts/g0f6_7-uaEE"
     },
     {
