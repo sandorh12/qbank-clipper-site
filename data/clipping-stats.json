@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-27T23:06:10-05:00",
+  "updated_at": "2026-11-28T06:58:13-05:00",
   "totals": {
-    "views": 5851,
+    "views": 7482,
     "watch_time_hours": 7.88,
     "clips": 76
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 5408,
+      "views": 7004,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,49 +18,61 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 443,
+      "views": 478,
       "clips": 15,
       "url": "https://x.com/SandorH0",
       "top_clips": [
         {
           "title": "Kurtz calls it \"break or breach.\" The 30-day patch window is gone.",
           "url": "https://x.com/i/status/2125635625592164391",
-          "views": 56
+          "views": 58
         },
         {
           "title": "Kurtz: attackers steal your session token — the \"trust this computer\" pass — and they're in your inbox for 30 days.",
           "url": "https://x.com/i/status/2125726225893314592",
-          "views": 50
-        },
-        {
-          "title": "Kurtz: OpenAI \"took the airbags off the agents.\" Defenders didn't have frontier models, so they used Chinese models to see what happened.",
-          "url": "https://x.com/i/status/2125771527203266793",
-          "views": 42
+          "views": 51
         },
         {
           "title": "Jason: a $12k–$20k Mac can replace a 10-year-old top server and run AI locally.",
           "url": "https://x.com/i/status/2126043320153497857",
-          "views": 41
+          "views": 46
         },
         {
           "title": "Jason: OpenAI \"YOLO'd\" thousands of agents with almost no guardrails.",
           "url": "https://x.com/i/status/2125998013491376474",
-          "views": 40
+          "views": 44
+        },
+        {
+          "title": "Kurtz: OpenAI \"took the airbags off the agents.\" Defenders didn't have frontier models, so they used Chinese models to see what happened.",
+          "url": "https://x.com/i/status/2125771527203266793",
+          "views": 43
         }
       ]
     }
   },
   "top_clips": [
     {
+      "title": "Chat is in shambles over HasanAbi 🎮",
+      "platform": "YouTube Shorts",
+      "views": 945,
+      "url": "https://www.youtube.com/shorts/uYaf0KXn5QQ"
+    },
+    {
       "title": "CohhCarnage at the gym 🎮",
       "platform": "YouTube Shorts",
-      "views": 868,
+      "views": 870,
       "url": "https://www.youtube.com/shorts/uAc9PbC8i_M"
+    },
+    {
+      "title": "\"HOW'S HE BOOKING IT?\" - HasanAbi 🎮",
+      "platform": "YouTube Shorts",
+      "views": 856,
+      "url": "https://www.youtube.com/shorts/zIX7QZilCtY"
     },
     {
       "title": "Chat is in shambles over YourRAGE 🎮",
       "platform": "YouTube Shorts",
-      "views": 657,
+      "views": 660,
       "url": "https://www.youtube.com/shorts/i-GPLFgvybA"
     },
     {
@@ -68,18 +80,6 @@
       "platform": "YouTube Shorts",
       "views": 487,
       "url": "https://www.youtube.com/shorts/ElaMBDJwwjc"
-    },
-    {
-      "title": "Chat spams W for supertf 🎮",
-      "platform": "YouTube Shorts",
-      "views": 474,
-      "url": "https://www.youtube.com/shorts/g0f6_7-uaEE"
-    },
-    {
-      "title": "Chat is in shambles over Lacy 🎮",
-      "platform": "YouTube Shorts",
-      "views": 447,
-      "url": "https://www.youtube.com/shorts/52VfKazCuKI"
     }
   ],
   "campaigns": [
