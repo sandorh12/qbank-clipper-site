@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-28T12:04:21-05:00",
+  "updated_at": "2026-11-28T12:33:43-05:00",
   "totals": {
-    "views": 7828,
+    "views": 8253,
     "watch_time_hours": 7.88,
-    "clips": 76
+    "clips": 77
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 7346,
+      "views": 7378,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,34 +18,35 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 482,
-      "clips": 15,
+      "views": 875,
+      "clips": 16,
+      "posts": 28,
       "url": "https://x.com/SandorH0",
       "top_clips": [
         {
           "title": "Kurtz calls it \"break or breach.\" The 30-day patch window is gone.",
-          "url": "https://x.com/i/status/2125635625592164391",
-          "views": 58
+          "url": "https://x.com/SandorH0/status/2125635625592164391",
+          "views": 59
         },
         {
           "title": "Kurtz: attackers steal your session token — the \"trust this computer\" pass — and they're in your inbox for 30 days.",
-          "url": "https://x.com/i/status/2125726225893314592",
-          "views": 51
+          "url": "https://x.com/SandorH0/status/2125726225893314592",
+          "views": 52
         },
         {
           "title": "Jason: a $12k–$20k Mac can replace a 10-year-old top server and run AI locally.",
-          "url": "https://x.com/i/status/2126043320153497857",
-          "views": 46
+          "url": "https://x.com/SandorH0/status/2126043320153497857",
+          "views": 47
         },
         {
           "title": "Jason: OpenAI \"YOLO'd\" thousands of agents with almost no guardrails.",
-          "url": "https://x.com/i/status/2125998013491376474",
-          "views": 44
+          "url": "https://x.com/SandorH0/status/2125998013491376474",
+          "views": 45
         },
         {
-          "title": "Kurtz: OpenAI \"took the airbags off the agents.\" Defenders didn't have frontier models, so they used Chinese models to see what happened.",
-          "url": "https://x.com/i/status/2125771527203266793",
-          "views": 43
+          "title": "Kurtz: OpenAI \"took the airbags off the agents.\"",
+          "url": "https://x.com/SandorH0/status/2125771527203266793",
+          "views": 44
         }
       ]
     }
@@ -54,7 +55,7 @@
     {
       "title": "Chat is in shambles over HasanAbi 🎮",
       "platform": "YouTube Shorts",
-      "views": 1282,
+      "views": 1314,
       "url": "https://www.youtube.com/shorts/uYaf0KXn5QQ"
     },
     {
