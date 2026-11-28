@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-27T18:06:01-05:00",
+  "updated_at": "2026-11-27T19:05:56-05:00",
   "totals": {
-    "views": 5258,
+    "views": 5282,
     "watch_time_hours": 7.88,
     "clips": 75
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 4888,
+      "views": 4910,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,7 +18,7 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 370,
+      "views": 372,
       "clips": 14,
       "url": "https://x.com/SandorH0",
       "top_clips": [
@@ -45,7 +45,7 @@
         {
           "title": "Chamath Palihapitiya: AI will produce 9-10 megacorps that each go \"from the application layer all the way down to the dirt.\" His example: Palo Alto Networks...",
           "url": "https://x.com/i/status/2125294750731247859",
-          "views": 35
+          "views": 36
         }
       ]
     }
