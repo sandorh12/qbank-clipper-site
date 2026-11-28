@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-27T19:05:56-05:00",
+  "updated_at": "2026-11-27T20:01:40-05:00",
   "totals": {
-    "views": 5282,
+    "views": 5366,
     "watch_time_hours": 7.88,
     "clips": 75
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 4910,
+      "views": 4983,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,19 +18,19 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 372,
+      "views": 383,
       "clips": 14,
       "url": "https://x.com/SandorH0",
       "top_clips": [
         {
           "title": "Kurtz calls it \"break or breach.\" The 30-day patch window is gone.",
           "url": "https://x.com/i/status/2125635625592164391",
-          "views": 51
+          "views": 52
         },
         {
           "title": "Kurtz: attackers steal your session token — the \"trust this computer\" pass — and they're in your inbox for 30 days.",
           "url": "https://x.com/i/status/2125726225893314592",
-          "views": 46
+          "views": 47
         },
         {
           "title": "CrowdStrike CEO George Kurtz: AI agents collapsed the cyber \"pyramid of pain.\" Now \"anyone can look like a nation state.\" My take: this is the strongest bull...",
@@ -40,7 +40,7 @@
         {
           "title": "Kurtz: OpenAI \"took the airbags off the agents.\" Defenders didn't have frontier models, so they used Chinese models to see what happened.",
           "url": "https://x.com/i/status/2125771527203266793",
-          "views": 37
+          "views": 38
         },
         {
           "title": "Chamath Palihapitiya: AI will produce 9-10 megacorps that each go \"from the application layer all the way down to the dirt.\" His example: Palo Alto Networks...",
