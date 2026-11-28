@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-27T20:57:46-05:00",
+  "updated_at": "2026-11-27T22:05:49-05:00",
   "totals": {
-    "views": 5435,
+    "views": 5617,
     "watch_time_hours": 7.88,
-    "clips": 75
+    "clips": 76
   },
   "platforms": {
     "youtube_shorts": {
-      "views": 5028,
+      "views": 5179,
       "clips": 50,
       "url": "https://www.youtube.com/@qbankclipz"
     },
@@ -18,8 +18,8 @@
       "note": "Instagram view counts are not available yet (insights permission pending), so they are not included in the totals."
     },
     "x": {
-      "views": 407,
-      "clips": 14,
+      "views": 438,
+      "clips": 15,
       "url": "https://x.com/SandorH0",
       "top_clips": [
         {
@@ -30,22 +30,22 @@
         {
           "title": "Kurtz: attackers steal your session token — the \"trust this computer\" pass — and they're in your inbox for 30 days.",
           "url": "https://x.com/i/status/2125726225893314592",
-          "views": 49
+          "views": 50
         },
         {
           "title": "Kurtz: OpenAI \"took the airbags off the agents.\" Defenders didn't have frontier models, so they used Chinese models to see what happened.",
           "url": "https://x.com/i/status/2125771527203266793",
-          "views": 41
-        },
-        {
-          "title": "CrowdStrike CEO George Kurtz: AI agents collapsed the cyber \"pyramid of pain.\" Now \"anyone can look like a nation state.\" My take: this is the strongest bull...",
-          "url": "https://x.com/i/status/2125324827871633479",
-          "views": 38
+          "views": 42
         },
         {
           "title": "Jason: a $12k–$20k Mac can replace a 10-year-old top server and run AI locally.",
           "url": "https://x.com/i/status/2126043320153497857",
-          "views": 38
+          "views": 40
+        },
+        {
+          "title": "Jason: OpenAI \"YOLO'd\" thousands of agents with almost no guardrails.",
+          "url": "https://x.com/i/status/2125998013491376474",
+          "views": 39
         }
       ]
     }
